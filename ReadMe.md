@@ -31,3 +31,7 @@ const onPressLogout = async () => {
    await clearSessionData()
 }
 ```
+
+### Refference
+```
+1. https://reactnative.dev/docs/asyncstorage
